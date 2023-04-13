@@ -2,7 +2,7 @@
 ## This is the first functional code in my jorney throug Python, will be updated in the future ##
 
 Calculating an IPv4 address have never been simpler!
-Just punch in numbers and program will calculate your subnet nad show you it's specifications:
+Just punch in numbers and program will calculate your subnet and show you it's specifications:
   1. Subnet Number: 
   2. Minimal address.
   3. Maximal address.
